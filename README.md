@@ -3,14 +3,21 @@
 ## Simple Hello World example
 
 Worked for Attin2313.
+
 Use UART BAUD 2400
+
 Makefile target: minipro to program with MiniPro TL866
 
+Breadboard:
+
+https://raw.githubusercontent.com/tgfuellner/HelloWorldAttiny/master/breadboard.jpg
 
 ## Based on
 
 Hello World
+
 Stefan Frings
+
 www.stefanfrings.de
 
 --------
