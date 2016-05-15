@@ -12,8 +12,6 @@ Breadboard:
 
 ![alt tag](breadboard.jpg "Breadboard")
 
-![alt tag](https://raw.githubusercontent.com/tgfuellner/HelloWorldAttiny/master/breadboard.jpg "Breadboard")
-
 ## Based on
 
 Hello World
