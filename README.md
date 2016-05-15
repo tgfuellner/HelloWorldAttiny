@@ -10,7 +10,7 @@ Makefile target: minipro to program with MiniPro TL866
 
 Breadboard:
 
-![alt text]: (https://raw.githubusercontent.com/tgfuellner/HelloWorldAttiny/master/breadboard.jpg "Breadboard")
+![alt tag](https://raw.githubusercontent.com/tgfuellner/HelloWorldAttiny/master/breadboard.jpg "Breadboard")
 
 ## Based on
 
