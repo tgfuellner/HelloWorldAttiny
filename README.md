@@ -6,7 +6,7 @@ Worked for Attin2313.
 
 Use UART BAUD 2400
 
-Makefile target: minipro to program with MiniPro TL866
+Makefile target: **minipro** to program with MiniPro TL866
 
 Breadboard:
 
